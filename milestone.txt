@@ -1,0 +1,3 @@
+1. The dataset I check is Hillary Clinton's emails 
+2. Currently I want to use https://github.com/nlp-compromise/compromise and Python's NLTK as my NLP techniques. I'd like to use TF-IDF to find out some keywords and which document they appear. 
+3. My view will be ranking of keywords on the left, every keyword has many lines link to related documents. In the meantime, these documents will has links to receivers. 
