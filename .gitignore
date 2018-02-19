@@ -1,1 +1,6 @@
 *.zip
+*.csv
+dataset/*
+env/
+LDA*
+category*

@@ -1,0 +1,311 @@
+Category Name:
+Restaurants
+Star Distribution
+[0, 6597, 5888, 8676, 17259, 23088]
+Postive LDA
+[(0,
+  u'0.031*"food" + 0.030*"great" + 0.021*"place" + 0.017*"service" + 0.015*"good" + 0.009*"staff" + 0.008*"time" + 0.008*"bar" + 0.007*"nice" + 0.006*"friendly"'),
+ (1,
+  u'0.018*"good" + 0.014*"place" + 0.014*"food" + 0.010*"great" + 0.008*"chicken" + 0.008*"delicious" + 0.007*"time" + 0.007*"best" + 0.006*"fresh" + 0.006*"service"')]
+Negative LDA
+[(0,
+  u'0.032*"food" + 0.018*"place" + 0.016*"service" + 0.014*"good" + 0.014*"time" + 0.011*"order" + 0.008*"restaurant" + 0.007*"minutes" + 0.007*"table" + 0.007*"great"'),
+ (1,
+  u'0.017*"good" + 0.013*"chicken" + 0.008*"sauce" + 0.007*"cheese" + 0.007*"place" + 0.007*"salad" + 0.006*"rice" + 0.006*"food" + 0.006*"meat" + 0.005*"fries"')]
+Category Name:
+Food
+Star Distribution
+[0, 1740, 1564, 2524, 5397, 8254]
+Postive LDA
+[(0,
+  u'0.022*"food" + 0.019*"great" + 0.018*"good" + 0.018*"place" + 0.010*"service" + 0.008*"time" + 0.007*"delicious" + 0.006*"best" + 0.006*"menu" + 0.005*"chicken"'),
+ (1,
+  u'0.014*"place" + 0.013*"coffee" + 0.010*"good" + 0.010*"great" + 0.009*"cream" + 0.008*"ice" + 0.007*"chocolate" + 0.007*"tea" + 0.006*"time" + 0.005*"delicious"')]
+Negative LDA
+[(0,
+  u'0.017*"store" + 0.004*"grade" + 0.004*"der" + 0.004*"foods" + 0.004*"die" + 0.004*"grocery" + 0.004*"final" + 0.003*"produce" + 0.003*"items" + 0.003*"das"'),
+ (1,
+  u'0.017*"food" + 0.015*"place" + 0.015*"good" + 0.010*"time" + 0.010*"service" + 0.007*"order" + 0.006*"great" + 0.005*"people" + 0.005*"coffee" + 0.004*"nice"')]
+Category Name:
+Nightlife
+Star Distribution
+[0, 1814, 1552, 2437, 4712, 6072]
+Postive LDA
+[(0,
+  u'0.023*"food" + 0.020*"great" + 0.019*"good" + 0.015*"place" + 0.012*"service" + 0.008*"time" + 0.007*"delicious" + 0.007*"restaurant" + 0.007*"menu" + 0.007*"nice"'),
+ (1,
+  u'0.017*"place" + 0.015*"great" + 0.013*"bar" + 0.009*"good" + 0.009*"time" + 0.008*"night" + 0.008*"music" + 0.008*"drinks" + 0.006*"people" + 0.006*"beer"')]
+Negative LDA
+[(0,
+  u'0.020*"food" + 0.019*"place" + 0.013*"service" + 0.013*"good" + 0.011*"time" + 0.011*"bar" + 0.008*"drinks" + 0.007*"people" + 0.007*"great" + 0.007*"table"'),
+ (1,
+  u'0.016*"good" + 0.014*"food" + 0.009*"chicken" + 0.008*"burger" + 0.007*"cheese" + 0.007*"fries" + 0.007*"salad" + 0.006*"menu" + 0.006*"great" + 0.006*"sauce"')]
+Category Name:
+Bars
+Star Distribution
+[0, 1632, 1442, 2242, 4364, 5561]
+Postive LDA
+[(0,
+  u'0.017*"good" + 0.015*"food" + 0.012*"great" + 0.010*"service" + 0.009*"delicious" + 0.008*"place" + 0.007*"restaurant" + 0.007*"menu" + 0.007*"cheese" + 0.006*"burger"'),
+ (1,
+  u'0.026*"great" + 0.024*"place" + 0.019*"food" + 0.015*"good" + 0.014*"bar" + 0.010*"time" + 0.010*"beer" + 0.009*"service" + 0.009*"drinks" + 0.008*"night"')]
+Negative LDA
+[(0,
+  u'0.017*"good" + 0.017*"food" + 0.009*"place" + 0.007*"chicken" + 0.007*"burger" + 0.007*"great" + 0.007*"service" + 0.006*"menu" + 0.006*"cheese" + 0.006*"fries"'),
+ (1,
+  u'0.020*"food" + 0.019*"place" + 0.014*"service" + 0.013*"bar" + 0.011*"good" + 0.011*"time" + 0.008*"drinks" + 0.007*"table" + 0.007*"people" + 0.007*"minutes"')]
+Category Name:
+American (New)
+Star Distribution
+[0, 885, 973, 1443, 2812, 3831]
+Postive LDA
+[(0,
+  u'0.028*"food" + 0.027*"great" + 0.023*"place" + 0.018*"good" + 0.014*"service" + 0.009*"time" + 0.008*"bar" + 0.007*"menu" + 0.007*"nice" + 0.007*"staff"'),
+ (1,
+  u'0.016*"good" + 0.010*"burger" + 0.010*"cheese" + 0.008*"delicious" + 0.008*"great" + 0.007*"fries" + 0.007*"chicken" + 0.006*"sauce" + 0.006*"food" + 0.006*"place"')]
+Negative LDA
+[(0,
+  u'0.026*"food" + 0.015*"service" + 0.014*"good" + 0.012*"place" + 0.012*"time" + 0.008*"minutes" + 0.008*"great" + 0.007*"order" + 0.007*"bar" + 0.007*"restaurant"'),
+ (1,
+  u'0.018*"good" + 0.014*"food" + 0.013*"place" + 0.010*"burger" + 0.008*"cheese" + 0.008*"chicken" + 0.008*"fries" + 0.007*"great" + 0.006*"service" + 0.006*"salad"')]
+Category Name:
+American (Traditional)
+Star Distribution
+[0, 1206, 1038, 1454, 2711, 3423]
+Postive LDA
+[(0,
+  u'0.028*"food" + 0.024*"great" + 0.022*"place" + 0.022*"good" + 0.015*"service" + 0.009*"time" + 0.007*"breakfast" + 0.007*"bar" + 0.007*"nice" + 0.007*"menu"'),
+ (1,
+  u'0.015*"good" + 0.011*"burger" + 0.011*"chicken" + 0.009*"food" + 0.008*"delicious" + 0.008*"sauce" + 0.007*"cheese" + 0.007*"fries" + 0.007*"salad" + 0.007*"place"')]
+Negative LDA
+[(0,
+  u'0.030*"food" + 0.018*"service" + 0.017*"place" + 0.014*"time" + 0.011*"order" + 0.011*"good" + 0.009*"minutes" + 0.009*"table" + 0.008*"bar" + 0.007*"server"'),
+ (1,
+  u'0.020*"good" + 0.014*"food" + 0.010*"place" + 0.010*"burger" + 0.009*"chicken" + 0.008*"fries" + 0.007*"great" + 0.006*"cheese" + 0.006*"menu" + 0.006*"salad"')]
+Category Name:
+Breakfast & Brunch
+Star Distribution
+[0, 788, 789, 1150, 2506, 3567]
+Postive LDA
+[(0,
+  u'0.012*"place" + 0.009*"time" + 0.009*"tacos" + 0.008*"food" + 0.008*"pork" + 0.006*"good" + 0.006*"many" + 0.006*"selection" + 0.006*"great" + 0.006*"buffet"'),
+ (1,
+  u'0.024*"food" + 0.020*"place" + 0.020*"good" + 0.019*"great" + 0.011*"service" + 0.011*"breakfast" + 0.008*"coffee" + 0.007*"time" + 0.007*"delicious" + 0.007*"menu"')]
+Negative LDA
+[(0,
+  u'0.027*"food" + 0.018*"good" + 0.015*"place" + 0.013*"service" + 0.011*"time" + 0.007*"order" + 0.007*"great" + 0.007*"breakfast" + 0.007*"table" + 0.006*"restaurant"'),
+ (1,
+  u'0.012*"buffet" + 0.005*"line" + 0.005*"food" + 0.004*"beer" + 0.004*"vegas" + 0.004*"fish" + 0.004*"place" + 0.003*"dinner" + 0.003*"bar" + 0.003*"shrimp"')]
+Category Name:
+Shopping
+Star Distribution
+[0, 1229, 458, 654, 1364, 3598]
+Postive LDA
+[(0,
+  u'0.016*"store" + 0.012*"place" + 0.010*"great" + 0.008*"good" + 0.008*"selection" + 0.007*"items" + 0.005*"time" + 0.005*"stores" + 0.005*"nice" + 0.005*"little"'),
+ (1,
+  u'0.019*"great" + 0.012*"service" + 0.012*"time" + 0.009*"place" + 0.009*"store" + 0.008*"new" + 0.007*"helpful" + 0.007*"staff" + 0.007*"customer" + 0.007*"experience"')]
+Negative LDA
+[(0,
+  u'0.017*"service" + 0.015*"customer" + 0.013*"store" + 0.012*"time" + 0.006*"phone" + 0.006*"day" + 0.006*"manager" + 0.005*"business" + 0.005*"rude" + 0.004*"people"'),
+ (1,
+  u'0.020*"store" + 0.010*"place" + 0.008*"good" + 0.006*"time" + 0.005*"people" + 0.005*"stores" + 0.005*"great" + 0.005*"items" + 0.005*"nice" + 0.005*"little"')]
+Category Name:
+Event Planning & Services
+Star Distribution
+[0, 1007, 741, 961, 1824, 2747]
+Postive LDA
+[(0,
+  u'0.021*"room" + 0.020*"hotel" + 0.014*"great" + 0.011*"nice" + 0.009*"rooms" + 0.008*"strip" + 0.008*"place" + 0.007*"staff" + 0.007*"time" + 0.007*"clean"'),
+ (1,
+  u'0.016*"great" + 0.014*"place" + 0.013*"food" + 0.013*"good" + 0.009*"time" + 0.007*"service" + 0.006*"best" + 0.005*"nice" + 0.005*"delicious" + 0.004*"staff"')]
+Negative LDA
+[(0,
+  u'0.028*"room" + 0.018*"hotel" + 0.008*"time" + 0.008*"rooms" + 0.007*"place" + 0.007*"service" + 0.007*"night" + 0.006*"nice" + 0.006*"desk" + 0.006*"front"'),
+ (1,
+  u'0.018*"food" + 0.014*"good" + 0.011*"place" + 0.008*"service" + 0.007*"time" + 0.005*"order" + 0.005*"great" + 0.005*"nice" + 0.004*"restaurant" + 0.004*"bar"')]
+Category Name:
+Sandwiches
+Star Distribution
+[0, 614, 594, 809, 1693, 2725]
+Postive LDA
+[(0,
+  u'0.022*"food" + 0.020*"great" + 0.020*"good" + 0.016*"pizza" + 0.015*"place" + 0.012*"service" + 0.010*"time" + 0.007*"best" + 0.006*"delicious" + 0.005*"order"'),
+ (1,
+  u'0.018*"sandwich" + 0.018*"place" + 0.015*"good" + 0.013*"great" + 0.011*"food" + 0.008*"sandwiches" + 0.008*"delicious" + 0.008*"fresh" + 0.007*"breakfast" + 0.007*"coffee"')]
+Negative LDA
+[(0,
+  u'0.020*"food" + 0.016*"good" + 0.014*"place" + 0.010*"service" + 0.010*"time" + 0.008*"sandwich" + 0.008*"pizza" + 0.007*"coffee" + 0.007*"great" + 0.006*"nothing"'),
+ (1,
+  u'0.035*"sandwich" + 0.015*"good" + 0.013*"sauce" + 0.013*"place" + 0.013*"order" + 0.010*"fries" + 0.009*"location" + 0.008*"cheese" + 0.008*"hot" + 0.007*"half"')]
+Category Name:
+Arts & Entertainment
+Star Distribution
+[0, 806, 604, 845, 1652, 2097]
+Postive LDA
+[(0,
+  u'0.016*"great" + 0.015*"place" + 0.011*"good" + 0.010*"time" + 0.009*"food" + 0.006*"fun" + 0.005*"bar" + 0.005*"people" + 0.005*"night" + 0.005*"nice"'),
+ (1,
+  u'0.017*"room" + 0.017*"show" + 0.014*"hotel" + 0.012*"great" + 0.011*"vegas" + 0.008*"nice" + 0.008*"strip" + 0.007*"time" + 0.007*"good" + 0.006*"casino"')]
+Negative LDA
+[(0,
+  u'0.014*"food" + 0.012*"good" + 0.010*"show" + 0.009*"place" + 0.008*"service" + 0.008*"time" + 0.006*"people" + 0.006*"movie" + 0.005*"great" + 0.004*"way"'),
+ (1,
+  u'0.026*"room" + 0.015*"hotel" + 0.009*"place" + 0.009*"time" + 0.007*"pool" + 0.007*"rooms" + 0.006*"service" + 0.006*"vegas" + 0.006*"night" + 0.006*"nice"')]
+Category Name:
+Beauty & Spas
+Star Distribution
+[0, 862, 326, 300, 713, 3741]
+Postive LDA
+[(0,
+  u'0.017*"great" + 0.014*"place" + 0.014*"time" + 0.012*"nails" + 0.010*"best" + 0.009*"salon" + 0.009*"job" + 0.008*"nail" + 0.008*"amazing" + 0.007*"staff"'),
+ (1,
+  u'0.032*"hair" + 0.018*"great" + 0.013*"place" + 0.012*"time" + 0.011*"massage" + 0.010*"cut" + 0.009*"salon" + 0.009*"good" + 0.008*"nice" + 0.007*"room"')]
+Negative LDA
+[(0,
+  u'0.017*"time" + 0.011*"place" + 0.009*"massage" + 0.009*"appointment" + 0.008*"service" + 0.007*"pedicure" + 0.007*"nail" + 0.007*"good" + 0.007*"salon" + 0.006*"nails"'),
+ (1,
+  u'0.023*"hair" + 0.013*"nails" + 0.011*"place" + 0.011*"time" + 0.008*"service" + 0.007*"room" + 0.007*"good" + 0.006*"nice" + 0.006*"salon" + 0.006*"experience"')]
+Category Name:
+Mexican
+Star Distribution
+[0, 730, 584, 745, 1540, 2228]
+Postive LDA
+[(0,
+  u'0.007*"tacos" + 0.007*"fries" + 0.007*"burger" + 0.005*"best" + 0.004*"brunch" + 0.003*"la" + 0.003*"burgers" + 0.002*"place" + 0.002*"pastor" + 0.002*"sandwich"'),
+ (1,
+  u'0.029*"food" + 0.022*"good" + 0.020*"great" + 0.020*"place" + 0.014*"tacos" + 0.012*"mexican" + 0.012*"service" + 0.009*"delicious" + 0.008*"time" + 0.008*"salsa"')]
+Negative LDA
+[(0,
+  u'0.039*"food" + 0.022*"good" + 0.018*"place" + 0.012*"mexican" + 0.011*"service" + 0.010*"salsa" + 0.009*"tacos" + 0.009*"time" + 0.009*"restaurant" + 0.008*"chips"'),
+ (1,
+  u'0.018*"food" + 0.012*"place" + 0.011*"time" + 0.011*"good" + 0.008*"service" + 0.007*"sure" + 0.006*"menu" + 0.006*"location" + 0.005*"night" + 0.005*"experience"')]
+Category Name:
+Pizza
+Star Distribution
+[0, 725, 522, 682, 1591, 2252]
+Postive LDA
+[(0,
+  u'0.078*"pizza" + 0.016*"crust" + 0.015*"good" + 0.010*"place" + 0.010*"cheese" + 0.008*"sauce" + 0.008*"toppings" + 0.007*"order" + 0.007*"great" + 0.007*"best"'),
+ (1,
+  u'0.022*"great" + 0.021*"food" + 0.019*"good" + 0.019*"place" + 0.014*"pizza" + 0.013*"service" + 0.009*"time" + 0.008*"delicious" + 0.007*"nice" + 0.006*"restaurant"')]
+Negative LDA
+[(0,
+  u'0.066*"pizza" + 0.016*"order" + 0.012*"good" + 0.011*"place" + 0.010*"time" + 0.008*"crust" + 0.008*"cheese" + 0.006*"service" + 0.006*"delivery" + 0.006*"sauce"'),
+ (1,
+  u'0.023*"food" + 0.016*"good" + 0.013*"place" + 0.012*"service" + 0.008*"time" + 0.007*"restaurant" + 0.007*"pizza" + 0.007*"salad" + 0.007*"great" + 0.005*"chicken"')]
+Category Name:
+Italian
+Star Distribution
+[0, 551, 520, 718, 1478, 2160]
+Postive LDA
+[(0,
+  u'0.019*"food" + 0.015*"good" + 0.014*"great" + 0.012*"place" + 0.010*"service" + 0.009*"restaurant" + 0.009*"italian" + 0.008*"pasta" + 0.008*"delicious" + 0.007*"time"'),
+ (1,
+  u'0.050*"pizza" + 0.019*"great" + 0.016*"place" + 0.016*"good" + 0.010*"service" + 0.010*"food" + 0.008*"time" + 0.007*"crust" + 0.006*"cheese" + 0.006*"best"')]
+Negative LDA
+[(0,
+  u'0.018*"food" + 0.017*"pizza" + 0.017*"good" + 0.012*"place" + 0.010*"service" + 0.008*"time" + 0.007*"restaurant" + 0.007*"great" + 0.007*"sauce" + 0.006*"salad"'),
+ (1,
+  u'0.010*"order" + 0.010*"pizza" + 0.009*"time" + 0.009*"food" + 0.008*"service" + 0.006*"restaurant" + 0.006*"place" + 0.005*"minutes" + 0.005*"good" + 0.004*"delivery"')]
+Category Name:
+Burgers
+Star Distribution
+[0, 712, 555, 791, 1434, 1782]
+Postive LDA
+[(0,
+  u'0.032*"burger" + 0.018*"good" + 0.017*"place" + 0.017*"fries" + 0.016*"food" + 0.013*"great" + 0.013*"burgers" + 0.009*"time" + 0.008*"service" + 0.007*"cheese"'),
+ (1,
+  u'0.023*"great" + 0.020*"food" + 0.017*"good" + 0.014*"place" + 0.012*"service" + 0.008*"bar" + 0.007*"time" + 0.006*"beer" + 0.006*"breakfast" + 0.005*"staff"')]
+Negative LDA
+[(0,
+  u'0.017*"order" + 0.016*"service" + 0.015*"food" + 0.015*"fries" + 0.015*"place" + 0.013*"burger" + 0.009*"minutes" + 0.009*"people" + 0.009*"drive" + 0.008*"table"'),
+ (1,
+  u'0.024*"burger" + 0.022*"food" + 0.019*"good" + 0.011*"fries" + 0.011*"place" + 0.011*"great" + 0.009*"time" + 0.009*"service" + 0.008*"burgers" + 0.007*"menu"')]
+Category Name:
+Hotels & Travel
+Star Distribution
+[0, 1028, 570, 654, 1168, 1404]
+Postive LDA
+[(0,
+  u'0.024*"room" + 0.023*"hotel" + 0.013*"nice" + 0.013*"great" + 0.009*"rooms" + 0.008*"place" + 0.008*"strip" + 0.008*"clean" + 0.008*"pool" + 0.007*"staff"'),
+ (1,
+  u'0.014*"great" + 0.010*"time" + 0.009*"car" + 0.007*"good" + 0.007*"service" + 0.007*"experience" + 0.006*"tour" + 0.005*"best" + 0.005*"place" + 0.004*"day"')]
+Negative LDA
+[(0,
+  u'0.014*"car" + 0.012*"service" + 0.011*"time" + 0.008*"flight" + 0.007*"airport" + 0.007*"customer" + 0.007*"hotel" + 0.006*"people" + 0.006*"minutes" + 0.005*"way"'),
+ (1,
+  u'0.034*"room" + 0.020*"hotel" + 0.009*"rooms" + 0.008*"pool" + 0.008*"place" + 0.007*"nice" + 0.007*"good" + 0.007*"time" + 0.007*"night" + 0.006*"desk"')]
+Category Name:
+Coffee & Tea
+Star Distribution
+[0, 375, 378, 614, 1320, 2032]
+Postive LDA
+[(0,
+
+
+  1 import pickle
+  u'0.024*"coffee" + 0.022*"place" + 0.018*"great" + 0.015*"good" + 0.010*"tea" + 0.008*"nice" + 0.008*"food" + 0.008*"time" + 0.008*"service" + 0.007*"staff"'),
+ (1,
+  u'0.008*"sandwich" + 0.007*"cheese" + 0.006*"salad" + 0.006*"good" + 0.006*"food" + 0.005*"delicious" + 0.005*"chocolate" + 0.005*"lunch" + 0.004*"brunch" + 0.004*"chicken"')]
+Negative LDA
+[(0,
+  u'0.018*"coffee" + 0.017*"place" + 0.013*"good" + 0.011*"food" + 0.010*"service" + 0.010*"time" + 0.009*"order" + 0.006*"drinks" + 0.006*"people" + 0.005*"tea"'),
+ (1,
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+  u'0.015*"tea" + 0.009*"milk" + 0.006*"good" + 0.005*"cream" + 0.005*"place" + 0.005*"ice" + 0.005*"boba" + 0.004*"chocolate" + 0.004*"sweet" + 0.003*"time"')]
+Category Name:
+
+
+  1 import pickle
+Seafood
+Star Distribution
+[0, 424, 407, 630, 1230, 1951]
+Postive LDA
+[(0,
+  u'0.024*"great" + 0.024*"food" + 0.017*"service" + 0.016*"place" + 0.015*"good" + 0.008*"time" + 0.008*"restaurant" + 0.007*"best" + 0.007*"delicious" + 0.007*"steak"'),
+ (1,
+  u'0.016*"good" + 0.011*"place" + 0.011*"food" + 0.009*"fish" + 0.009*"shrimp" + 0.008*"sauce" + 0.007*"time" + 0.006*"fresh" + 0.006*"rice" + 0.006*"order"')]
+Negative LDA
+[(0,
+  u'0.025*"food" + 0.018*"good" + 0.016*"service" + 0.011*"place" + 0.009*"time" + 0.008*"table" + 0.008*"great" + 0.008*"order" + 0.007*"restaurant" + 0.006*"nice"'),
+ (1,
+  u'0.015*"food" + 0.011*"place" + 0.011*"good" + 0.009*"lobster" + 0.008*"restaurant" + 0.007*"shrimp" + 0.006*"crab" + 0.006*"service" + 0.005*"time" + 0.005*"bad"')]
+Category Name:
+Japanese
+Star Distribution
+
+
+[0, 428, 408, 612, 1201, 1627]
+Postive LDA
+[(0,
+  u'0.010*"sushi" + 0.010*"food" + 0.007*"good" + 0.006*"time" + 0.006*"place" + 0.005*"menu" + 0.005*"experience" + 0.005*"restaurant" + 0.005*"chef" + 0.005*"great"'),
+ (1,
+  u'0.027*"sushi" + 0.022*"place" + 0.021*"good" + 0.019*"great" + 0.018*"food" + 0.013*"service" + 0.011*"ramen" + 0.009*"time" + 0.008*"rolls" + 0.008*"best"')]
+Negative LDA
+[(0,
+  u'0.021*"sushi" + 0.020*"food" + 0.018*"good" + 0.018*"place" + 0.012*"service" + 0.010*"time" + 0.010*"ramen" + 0.008*"restaurant" + 0.007*"order" + 0.007*"roll"'),
+ (1,
+  u'0.012*"food" + 0.008*"service" + 0.007*"table" + 0.005*"place" + 0.005*"nice" + 0.005*"server" + 0.005*"order" + 0.004*"menu" + 0.004*"night" + 0.004*"experience"')]
