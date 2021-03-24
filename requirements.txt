@@ -94,7 +94,7 @@ qtconsole==4.3.1
 rake-nltk==1.0.2
 requests==2.12.4
 ROPGadget==5.4
-rsa==3.4.2
+rsa==4.1
 s3transfer==0.1.9
 scandir==1.6
 scikit-learn==0.18.1
