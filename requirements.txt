@@ -71,7 +71,7 @@ protobuf==3.1.0.post1
 psutil==5.0.1
 ptyprocess==0.5.2
 pwntools==3.3.0
-py==1.4.32
+py==1.10.0
 pyasn1==0.1.9
 pyasn1-modules==0.0.8
 PyAudio==0.2.9
