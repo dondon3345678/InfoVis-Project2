@@ -51,7 +51,7 @@ mpmath==0.19
 nbconvert==5.3.1
 nbformat==4.4.0
 nltk==3.2.5
-notebook==5.2.1
+notebook==6.4.12
 numpy==1.13.3
 oauth2client==3.0.0
 packaging==16.8
