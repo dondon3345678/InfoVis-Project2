@@ -43,7 +43,7 @@ jupyter==1.0.0
 jupyter-client==5.1.0
 jupyter-console==5.2.0
 jupyter-core==4.4.0
-Mako==1.0.6
+Mako==1.2.2
 MarkupSafe==0.23
 matplotlib==2.0.2
 mistune==0.8
